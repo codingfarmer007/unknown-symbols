@@ -1,6 +1,6 @@
 import re, os, idc
 
-name = 'test'
+name = 'WindowsKernelExplorer'
 path = os.path.dirname(__file__)
 
 save_file = open(r'%s\%s.txt' % (path, name), 'w')
